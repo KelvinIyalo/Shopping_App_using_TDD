@@ -1,6 +1,6 @@
-package com.example.testapp.network
+package com.example.shoppingapp.network
 
-import com.example.shoppingapp.Data.ShoppingItems
+import com.example.shoppingapp.data.ShoppingItems
 import com.example.testapp.other.constant.API_KEY
 import retrofit2.Response
 import retrofit2.http.GET
